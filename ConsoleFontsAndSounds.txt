@@ -5,7 +5,7 @@
 ; https://account.elderscrollsonline.com/add-on-terms
 
 ## Title: Console Fonts and Sounds
-## Description: Changes all in-game fonts to console UI's font, and changes all UI sounds to console UI sounds.
+## Description: Changes the PC interface fonts and sounds to the Console ones. Based on "Console Fonts" add-on by priom.
 ## Author: Smumbo
 ## Version: 0.2
 ## APIVersion: 101037
